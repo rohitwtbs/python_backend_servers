@@ -1,0 +1,16 @@
+*/node_modules
+*.exe
+*.o
+*.hi
+*.json
+*.class
+*.dSYM
+*.pyc
+*.jpg
+vue/
+angularjs/
+swift/
+iOS/
+venv/
+__pycache__/
+# [^\.]*
