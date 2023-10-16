@@ -1,1 +1,5 @@
 pip install django djangorestframework django-cors-headers
+
+
+
+now using a base docker django template for easy starting, it really helps
